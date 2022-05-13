@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Devansh-gaur-1611&label=Profile%20views&color=0e75b6&style=flat" alt="Devansh-gaur-1611" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Devansh-gaur-1611" alt="Devansh-gaur-1611" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Devansh-gaur-1611&margin-h=15&margin-w=15" alt="Devansh-gaur-1611" /></a> </p>
 
 
 - 🌱 I’m currently learning **NextJS, Backend**
